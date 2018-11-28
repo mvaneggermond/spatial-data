@@ -10,6 +10,13 @@ Welcome to spatial-data's documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: First Steps
+   :caption: Data I/O with R
 
    spatial-data-io/r-spatial-io
+
+.. toctree::
+:maxdepth: 2
+:hidden:
+:caption: Data I/O with GDAL / OGR2OGR
+
+	spatial-data-io/gdal-ogr2ogr-io

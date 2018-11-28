@@ -1,3 +1,9 @@
-# About
+# Getting GDAL
 
-This site contains tips & tricks for the handling of spatial data.
+## For OS X
+
+## For Ubuntu
+
+## For Windows
+
+# Using GDAL
