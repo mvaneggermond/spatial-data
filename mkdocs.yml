@@ -1,0 +1,17 @@
+site_name: Spatial data processing & analysis
+site_author: Michael van Eggermond
+
+
+
+
+
+nav:
+    - Home: index.md
+    - Spatial data I/O:
+        - Using GDAL / ogr2ogr: spatial-data-io/gdal-ogr2ogr.md
+        - Using PostGIS shapefile loader: spatial-data-io/postgis-shapefile-loader.md
+        - Using QGIS: spatial-data-io/qgis-spatial-io.md
+        - Using R: spatial-data-io/r-spatial-io.md
+
+    - About: about.md
+theme: readthedocs
